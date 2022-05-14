@@ -40,5 +40,5 @@ npm run dev
 
 * <h4>FastAPI</h4>
 * <h4>RedisJSON</h4>
-* <h4>RedisStreams</h4>
+* <h4>Redis Streams</h4>
 * <h4>React</h4>
